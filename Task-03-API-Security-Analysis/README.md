@@ -1,6 +1,6 @@
 [⬅️ Back to Main Portfolio](../README.md)
 
-# 🌐 Task 03: API Security Risk Analysis
+# Task 03: API Security Risk Analysis
 
 ### Executive Summary
 A manual security audit of the `postman-echo.com` public API to identify vulnerabilities and simulate real-world attack vectors. This project demonstrates the transition from theoretical OWASP principles to practical risk mitigation.
