@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Internship Portfolio: Future Interns
-**Duration:** March 19 – April 20, 2026
-**Focus:** Vulnerability Assessment, Threat Detection, and API Security
+**Duration:** March 19 – April 20, 2026  
+**Focus:** Vulnerability Assessment, Threat Detection, and API Security  
 
 This repository serves as a professional record of technical tasks completed during my internship. Each project demonstrates the transition from theoretical security concepts to hands-on risk mitigation and technical documentation.
 
@@ -8,20 +8,20 @@ This repository serves as a professional record of technical tasks completed dur
 
 ## 📂 Project Portfolio
 
-### 🔹 Task 1: Vulnerability Assessment (Network Scanning)
+### 🔹 [Task 1: Vulnerability Assessment (Network Scanning)](./Task-01-Vulnerability-Assessment/)
 * **Objective:** Conducted a passive security assessment of a live test server to identify open ports, unencrypted services, and potential entry points.
 * **Tools & Skills:** Nmap, Port Analysis (HTTP/SSH), Documentation.
-* 🔗 **[Browse Task 1 Folder](./Task-01-Vulnerability-Assessment/)**
+* 🔗 **[Explore Task 1 Folder](./Task-01-Vulnerability-Assessment/)**
 
-### 🔹 Task 2: Phishing Detection & Analysis
+### 🔹 [Task 2: Phishing Detection & Analysis](./Task-02-Phishing-Analysis/)
 * **Objective:** Evaluated malicious email headers and social engineering tactics to identify technical "red flags" and developed defensive guidelines for organizational security awareness.
 * **Tools & Skills:** Header Analysis, Social Engineering Defense, OSINT.
-* 🔗 **[Browse Task 2 Folder](./Task-02-Phishing-Analysis/)**
+* 🔗 **[Explore Task 2 Folder](./Task-02-Phishing-Analysis/)**
 
-### 🔹 Task 3: API Security Risk Analysis
+### 🔹 [Task 3: API Security Risk Analysis](./Task-03-API-Security/)
 * **Objective:** Performed a manual security audit of a public API using Postman to identify vulnerabilities such as sensitive data exposure and broken authentication.
 * **Frameworks:** OWASP Top 10 API Security, Risk Scoring.
-* 🔗 **[Browse Task 3 Folder](./Task-03-API-Security/)**
+* 🔗 **[Explore Task 3 Folder](./Task-03-API-Security-Analysis/)**
 
 ---
 
