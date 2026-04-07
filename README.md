@@ -1,5 +1,5 @@
 # 🛡️ Cybersecurity Internship Portfolio: Future Interns
-**Duration:** March 19 – April 19, 2026  
+**Duration:** March 19 – April 5, 2026  
 **Focus:** Vulnerability Assessment, Threat Detection, and API Security  
 
 This repository serves as a professional record of technical tasks completed during my internship. Each project demonstrates the transition from theoretical security concepts to hands-on risk mitigation and technical documentation.
